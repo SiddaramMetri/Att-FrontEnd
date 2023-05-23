@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Att-FrontEnd/static/css/main.e3bf6095.css",
+    "main.js": "/Att-FrontEnd/static/js/main.29129824.js",
+    "index.html": "/Att-FrontEnd/index.html",
+    "main.e3bf6095.css.map": "/Att-FrontEnd/static/css/main.e3bf6095.css.map",
+    "main.29129824.js.map": "/Att-FrontEnd/static/js/main.29129824.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3bf6095.css",
+    "static/js/main.29129824.js"
+  ]
+}
